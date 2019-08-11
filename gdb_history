@@ -1,0 +1,123 @@
+b main
+r
+ni
+heapinfo
+parseheap 
+ni
+parseheap 
+ni
+parseheap 
+x/20x 0x602000
+ni
+r BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ni
+heapinfo
+parseheap 
+x/20x 0x602050
+b main
+r
+ni
+parseheap 
+x/20x 0x602000
+ni
+ni
+ni
+ni
+ni
+ni
+parseheap 
+x/20x 0x602000
+ni
+parseheap 
+x/20x 0x602090
+ni
+heapinfo
+ni
+parseheap 
+ni
+ni
+b main
+r
+ni
+parseheap 
+ni
+ni
+ni
+parseheap 
+heapinfo
+ni
+ni
+heapinfo
+ni
+heapinfo
+parseheap 
+exit
+quit
+b main
+r
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+ni
+heapinfo
+parseheap 
+ni
+b main
+r
+ni
+b main
+r aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ni
+parseheap 
+x/20x 0x602000
+ni
+parseheap 
+ni
+b main
+r
+ni
+quit
+b main
+r
+ni
+parseheap 
+heapinfo
+ni
+heapinfo
+ni
+heapinfo
+ni
+heappinfo
+heapinfo
+b main
+r
+ni
+ni
+parseheap 
+ni
+ni
+ni
+ni
+ni
+ni
+heapinfo
+parseheap 
+ni
+parseheap 
+heapinfo
+b main
+r
+ni
+heapinfo
+ni
+heapinfo
+ni
+heapinfo
+ni
+heapinfo
