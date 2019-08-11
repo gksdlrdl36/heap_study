@@ -1,0 +1,28 @@
+b main
+r
+ni
+parseheap 
+ni
+parseheap 
+ni
+parseheap 
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+ni
+b main
+r 
+ni
+parseheap 
+ni
+heapinfo
+ni
+parseheap 
+heapinfo
+ni

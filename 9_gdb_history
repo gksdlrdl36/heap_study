@@ -1,0 +1,14 @@
+b main
+r
+ni
+parseheap 
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+ni
+parseheap 
+heapinfo
+quit

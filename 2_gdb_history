@@ -1,0 +1,17 @@
+b main
+r
+ni
+ni
+parseheap 
+ni
+parseheap 
+x/20x 0x602000
+ni
+parseheap 
+x/100x 0x602000
+ni
+parseheap 
+ni
+parseheap 
+x/100x 0x602090
+ni

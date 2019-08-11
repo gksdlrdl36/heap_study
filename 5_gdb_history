@@ -1,0 +1,10 @@
+b main
+r
+ni
+parseheap 
+x/20x 0x615c10
+ni
+ni
+parseheap 
+x/100x 0x615c10
+ni

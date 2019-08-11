@@ -1,0 +1,14 @@
+b main
+r
+r aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ni
+parseheap 
+x/20x 0x602000
+ni
+x/20x 0x602000
+ni
+parseheap 
+ni
+b main
+r
+ni
